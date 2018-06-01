@@ -1,0 +1,125 @@
+
+@font-face {
+    font-family: 'bebas';
+    src: url('fonts/Bebas.ttf');
+}
+body{
+    font-family: "open sans"
+}
+
+/**************** Styling for top menu ****************/
+.top-header{
+    padding: 5px;
+    background-color: #ff6200;
+}
+.call-us{
+    color:#be3600;
+    font-family: 'bebas'
+}
+.white{
+    color: white;
+}
+
+.register-menu{
+    font-family: 'bebas';
+    text-transform: capitalize;
+}
+.register-menu > a{
+    color: white;
+}
+.register-menu > a:hover{
+    color: #be3600;
+    text-decoration: none;
+}
+
+/*************** Styling for nav area ****************/
+
+.nav-cover{
+    background-color: #f8f9fa;
+}
+
+.navbar{
+  padding:20px 20px 20px 0;  
+}
+.navbar-brand{
+    text-transform: capitalize;
+    font-size: 32px;
+    font-family: 'bebas';
+}
+.navbar-light .navbar-nav .nav-link {
+    text-transform: capitalize;
+}
+.nav-item:hover{
+    border-bottom: 5px solid #fd7e14;
+    font-size: bold;
+}
+
+.dropdown-menu.level-one{
+    margin-top: 30px;
+    margin-left: -60px;
+}
+.dropdown-menu.level-two{
+    margin-top: -50px;
+    margin-left: 160px;
+}
+.orange{
+    color:#fd7e14;
+}
+.orange-bg{
+    background-color:#fd7e14;
+    border-color:#fd7e14;
+    border-radius: 0px;
+    padding:5px 20px 5px 20px;
+}
+.orange-bg:hover{
+     background-color:#fd7e14;
+    border-color:#ff6200;
+}
+
+.light-nav{
+    color:#929292;
+    
+}
+/*************** Styling for navigation ****************/
+.navigation{
+margin:50px 0 50px 0;
+    
+}
+.ubuntu-font{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/*************** Styling for contact section ****************/
+.light{
+   font-family: "Open Sans";
+   border-bottom: 10px solid #3d3d3d;
+    text-transform: capitalize;
+}
+.form-control{
+    background-color: #f6f6f6;
+}
+.bottom-margin{
+    margin-bottom: 30px;
+}
+.heading{
+    padding-bottom:10px;
+    color: #ff6200;
+    margin-bottom: 15px;
+}
+.contact{
+    font-size: 14px;
+}
+.social{
+    background-color: #b3afaf;
+    width:30px;
+    height: 30px;
+    padding:4px 5px 4px 5px;
+    margin-left:10px;
+}
+.social:hover{
+    background-color: #000;
+}
+.social .fab{
+    color:#fff;
+    
+}
