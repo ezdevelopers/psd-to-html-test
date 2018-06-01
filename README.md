@@ -2,4 +2,7 @@
 
 ### Sample file
 
+[View the file here](https://ezdevelopers.github.io/psd-to-html-test/.)
+
 ![psd image](CT_SkillTest_v1.jpg "PSD to html Conversion")
+
